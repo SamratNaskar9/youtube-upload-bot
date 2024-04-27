@@ -2,7 +2,7 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "6750546673:AAHs8Zj10et7SqBjUqcnXIgMlEJaWqcppvw"
 
     SESSION_NAME = ""
 
