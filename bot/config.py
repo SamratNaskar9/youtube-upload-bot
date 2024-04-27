@@ -10,7 +10,7 @@ class Config:
 
     API_HASH = "a49b5fd11943b79a1d914b9adc6bd8b1"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "http://388845379025-njn7ru8t1t6f14598k7q7m98hllco004.apps.googleusercontent.com"
 
     CLIENT_SECRET = ""
 
