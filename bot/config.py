@@ -4,11 +4,11 @@ class Config:
 
     BOT_TOKEN = "6750546673:AAHs8Zj10et7SqBjUqcnXIgMlEJaWqcppvw"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "youtubeupload"
 
-    API_ID = ""
+    API_ID = "22068414"
 
-    API_HASH = ""
+    API_HASH = "a49b5fd11943b79a1d914b9adc6bd8b1"
 
     CLIENT_ID = ""
 
